@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-image: url(./image/03B0AEAC-D178-4696-A726-95C58363B181.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    height: 800px;
+}
+.image-logo{
+    width: 100px;
+    height: auto;
+}
+h2{
+    font-family: 'Climate Crisis', cursive;
+    font-size: 30px;
+    text-align: center;
+    
+}
+main{
+    background-color: #fff;
+    height: 1000px;
+    
+
+}
+.Title{
+    margin: 0px auto;
+    text-align: center;
+    width: auto;
+    margin: 400px auto;
+    height: 200px;
+    font-family: 'Climate Crisis', cursive;
+    font-size: 30px;
+    color: #0057b8;
+
+    
+}
+.title-text{
+    margin: 50px auto;
+}
+.block{
+    margin: 400px auto;
+    color: #fff;
+    text-align: center;
+}
+span{
+    color:#ffd700;
+}
+
+
+
+
+
+.info{
+    width: auto;
+    height: 500px;
+    margin: 50px 20px;
+    
+}
+.info_image{
+    width: 250px;
+    height: auto;
+    justify-content: left;
+    
+}
+a{
+    text-decoration: none;
+    color: #0057b8;
+}
+.info_kalush{
+    width: 750px;
+    height: 300px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    margin: 100px 20px 20px 50px;
+    justify-content: right;
+}
+.media {
+    
+    width: 1000px;
+    margin: 100px auto;
+    
+    
+}
+.media-player-1,.media-player-2,.media-player-3,.media-player-4{
+    background-color: hsla(60, 6%, 93%, 1);
+    width: 300px;
+    height: 225px;
+    border-radius: 20px;
+    margin: 20px 80px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+    color: #0057b8;
+    box-shadow: 1px 1px 10px #676767;
+    
+    
+}
+
+.media-name {
+    text-align: center;
+    padding-top: 5px;
+}
+.media-image {
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+.image_musik {
+    width: auto;
+    height: 100px;
+    border-radius: 5px;
+
+}
+
+ul,li{
+    display: inline-block;
+
+}
+
+.media-video{
+    border-radius: 20px;
+    margin: 20px 50px 3px 50px;
+}
